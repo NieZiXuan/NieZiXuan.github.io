@@ -127,7 +127,7 @@ If you discover that the contrast between the cover text color and the cover bac
 
 ```yml
 cover_bg_color: rgb(40, 73, 77)
-cover_color: rgb(255, 255, 255)
+cover_color: rgb(0, 0, 0)
 ```
 
 ### Customizing Social Links
