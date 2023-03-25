@@ -51,6 +51,7 @@
   --spacer-3: calc(var(--spacer) * 3);
 }
 
+
 @media (prefers-color-scheme: dark) {
   :root {
     --body-color: var(--gray-300);
@@ -65,6 +66,11 @@
 
     --code-bg: #282828;
   }
+  // Example blue theme
+[data-theme="blue"] {
+  --body-bg: var(--blue);
+  --body-color: #fff;
+}
 }
 
 $sm-width: 35.5rem;
