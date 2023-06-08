@@ -16,7 +16,7 @@ See Not Pure Poole in action with [the demo site](https://vszhub.github.io/not-p
 
 ![Screenshot](screenshot.png)
 
-## Table of Contents <!-- omit in toc -->
+## Table of s <!-- omit in toc -->
 
 - [Features](#features)
 - [Installation](#installation)
